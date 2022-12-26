@@ -24,7 +24,7 @@ author_profile: true
 * Presentation at IEEE Metrocon Poster Competition, Organizer: IEEE Fort Worth Section, Mode: Face-to-face, Location: Fort Worth, Texas , Year : 2022
 
 * Talk at 3MT Thesis Competition, Organizer: Toulouse Graduate School,  Institute: University of North Texas
-Mode: Face-to-face , Location: Denton, Texas , Year: 2022, [Link : 28-31st Minute](https://youtu.be/BvFEkMWclfc)
+Mode: Face-to-face , Location: Denton, Texas , Year: 2022, [Link : 28-31st Minute](https://www.youtube.com/watch?v=7080WtafHMU)
 
 * Invited Talk at the Grad School Preview, Organizer: Graduate Student Council, Institute: University of North Texas, Mode: Online , Year: 2021
 
