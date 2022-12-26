@@ -32,14 +32,14 @@ author_profile: true
 *	Salau, R. Dantu, K. Morozov, S. Badruddoja and K. Upadhyay, "Making Blockchain Validators Honest," 2022 Fourth International Conference on Blockchain Computing and Applications (BCCA), 2022, pp. 267-273, doi: 10.1109/BCCA55292.2022.9921952.
 [Link](https://www.researchgate.net/publication/365107055_Making_Blockchain_Validators_Honest)
 
-*	A. Salau, R. Dantu, K. Upadhyay, S. Badruddoja, , “Data Cooperatives for Trusted News Sharing in Social Media”, 2nd International Conference on Blockchain Technology and Emerging Applications “(EAI BlockTEA 2022).  https://blocktea.eai-conferences.org/2022/ accepted-papers/
+*	A. Salau, R. Dantu, K. Upadhyay, S. Badruddoja, , “Data Cooperatives for Trusted News Sharing in Social Media”, 2nd International Conference on Blockchain Technology and Emerging Applications “(EAI BlockTEA 2022). [Link](https://blocktea.eai-conferences.org/2022/accepted-papers/)
 
 
 
 *	A. Salau, R. Dantu, K. Morozov, K. Upadhyay, S. Badruddoja, “Towards a Threat Model and Security Analysis for Data Cooperatives”, Proceedings of the 19th International Conference on Security and Cryptography,{SECRYPT} 2022, Lisbon, Portugal, July 11-13, 2022,pp. 707—713,2022, doi: 10.5220/0011328700003283
 [Link](https://www.researchgate.net/publication/362010983_Towards_a_Threat_Model_and_Security_Analysis_for_Data_Cooperatives)
 
-*	A. Salau, R. Dantu, K. Morozov, K. Upadhyay, S. Badruddoja, “Multi-tier reputation for data cooperative”, The Third International Conference on Mathematical Research for Blockchain Economy (MARBLE 2022). url : https://www.marble-conference.org/ marble2022-sessions
+*	A. Salau, R. Dantu, K. Morozov, K. Upadhyay, S. Badruddoja, “Multi-tier reputation for data cooperative”, The Third International Conference on Mathematical Research for Blockchain Economy (MARBLE 2022). [Link](https://www.marble-conference.org/ marble2022-sessions)
 
 
 ## 2021
