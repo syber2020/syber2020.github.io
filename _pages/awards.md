@@ -5,7 +5,7 @@ permalink: /awards/
 author_profile: true
 ---
 
-[Book logo](/syedbadruddoja/images/profile.png)
+![Book logo](/syedbadruddoja/images/profile.png)
 
 *	People’s Choice Award for 3MT Thesis Competition, Award Amount: $250, Organizer: Toulouse Graduate School,Institute: University of North Texas, Year: 2022
 
