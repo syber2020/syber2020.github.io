@@ -38,7 +38,7 @@ Many of the features of dynamic content management systems (like Wordpress) can 
 
 ### News
 * December 2022 : Completed the Graduate Student Teaching Excellence Program (GSTEP) course
-* December 2022 : Won the the people's choice award at the [UNT 3MT Thesis Competition](https://tgs.unt.edu/3mt) organized by UNT Toulouse Graduate School
+* December 2022 : Won the people's choice award at the [UNT 3MT Thesis Competition](https://tgs.unt.edu/3mt) organized by UNT Toulouse Graduate School
 * November 2022 : Won second place at the [IEEE Metrocon Poster Competition 2022](https://www.metrocon.org/2022/) organized by Fort Worth Section of IEEE
 * October 2022 : Presented work on ["Trusted AI with BLockchain to Empower Metaverse" at the Mathematical Institute of Serbian Academy of Science and Arts](http://www.mi.sanu.ac.rs/novi_sajt/seminars/programs/seminar24.oct2022.php)
 * September 2022 : Won the best paper award for the paper titled " Making Smart Contracts Predict and Scale" at the [IEEE International Conference on Blockchain Computing and Applications BCCA2022](http://intelligenttech.org/BCCA2022/)
