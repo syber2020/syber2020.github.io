@@ -23,8 +23,9 @@ redirect_from:
 
 
 
+## Grants 
+*  2021 - Member of NSA grant proposal titled "Achieving Trust and Transparency in the Fourth Industrial Revolution by Fusing AI, Blockchain and Digital Assets" 
+*  2022 - Member of IEEE Computer Society grant proposal titled "Emerging technology Activity" 
 
 
 
-<!-- ## DEIA Commitment
-Diversity, equity, inclusion and accessibility are inevitable in the classroom and the research laboratory as it is essential for academic development and excellence. I will actively pursue opportunities to enhance diversity and opportunities for students from historically underrepresented backgrounds in research, the classroom, and across campus at the University of Texas at El Paso. As part of my efforts to recruit minority students, I will seek out scholarship and fellowship opportunities in my lab, the department, and external institutes. Moreover, I will seek National Science Foundation (NSF) funding such as "Broadening Participation in STEM" to recruit and train minority graduate students in my field and provide mentoring to women and minority students to encourage them to pursue academic careers. I will work with students and faculty regardless of their race, ethnicity, gender, age, religion, language, abilities/disabilities, sexual orientation, socioeconomic status, or country of origin. My goal is to uphold these values and lead by example through outreach to international scientific communication and advance women's and minority representation through leadership and participation in programs. -->
