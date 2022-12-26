@@ -11,7 +11,7 @@ redirect_from:
 
 *	Vice President, [Cybersecurity Club](https://untcsc.github.io/), University of North Texas, 2020-2022
 
-* Senator, Graduate Student Council, College of Engineering, University of North Texas, 2020 – 2022
+* Senator, [Graduate Student Council](https://tgs.unt.edu/gsc), College of Engineering, University of North Texas, 2020 – 2022
 
 * Vice President, Bangladesh Student Association, University of North Texas, 2021 – 2022
 
