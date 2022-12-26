@@ -13,8 +13,8 @@ redirect_from:
 
 Education
 ======
-* Ph.D in Computer Science and Engineering, University of North Texas, July 2023 (expected)
-* B.Sc. in Electronics and Telecommunication Engineering, Independent University of Bangladesh, 2010
+* July 2023 (Expected): Ph.D in Computer Science and Engineering, University of North Texas
+* March 2010: B.Sc. in Electronics and Telecommunication Engineering, Independent University of Bangladesh
 
 
 Work experience
