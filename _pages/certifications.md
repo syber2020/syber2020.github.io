@@ -27,7 +27,7 @@ Self-titled "the flagship" certification, [RHCE](https://www.redhat.com/en/servi
 * Manage security, including basic firewall and SELinux configuration
 
 
-## 2014: Cisco Certified Internetwork Expert (CCIE)
+### 2014: Cisco Certified Internetwork Expert (CCIE)
 
 The Cisco Certified Internetwork Expert, or [CCIE](https://www.cisco.com/c/en/us/training-events/training-certifications/certifications/expert/ccie-enterprise-infrastructure.html), is a technical certification offered by Cisco Systems. The Cisco Certified Internetwork Expert (CCIE) and Cisco Certified Design Expert (CCDE) certifications were established to assist the industry in distinguishing the top echelon of inter-networking experts worldwide and to assess expert-level infrastructure network design skills worldwide. Holders of these certifications are generally acknowledged worldwide as being very advanced with regards of knowledge in the industry. The CCIE and CCDE community has established a reputation of leading the networking industry in deep technical networking knowledge and are deployed into the most technically challenging network assignments. The expert-level certification program continually updates and revises its testing tools and methodologies to ensure and maintain program quality, relevance and value. Through a rigorous written exam and a performance-based lab exam, these expert-level certification programs set the standard for inter-networking expertise. You can find the details of the CCIE lab exam [here](https://learningnetwork.cisco.com/s/article/lab-exam-v4-0-overview)
 
