@@ -13,7 +13,7 @@ author_profile: true
 
 * February 2022 (Expected): Roaming in Multi- Metaverse Platform Mandates Blockchain Interoprability
 
-* February 2022 (Expected)Deliberative Consensus to Replace Proof of X Protocols For General Agreement Problems
+* February 2022 (Expected): Deliberative Consensus to Replace Proof of X Protocols For General Agreement Problems
 
 ## Journal Papers
 
