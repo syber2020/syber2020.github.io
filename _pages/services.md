@@ -18,7 +18,7 @@ redirect_from:
 
 
 ## Grants & Participations
-* 2022: Member of IEEE Computer Society grant proposal titled "Emerging technology Activity" 
+* 2022: Member of IEEE Computer Society grant proposal titled "Emerging Technology Activity" 
 * 2021: Member of NSA grant proposal titled "Achieving Trust and Transparency in the Fourth Industrial Revolution by Fusing AI, Blockchain and Digital Assets" 
 * 2020-2021-: Competed in [National Cyber League (NCL)](https://nationalcyberleague.org/)- The NCL Competition is powered by Cyber Skyline, a leading cloud-based cybersecurity skills evaluation platform offering a safe environment for students to practice their cybersecurity skills. Together with NCL, Cyber Skyline presents the biannual NCL Competition.  
 
