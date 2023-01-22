@@ -8,6 +8,8 @@ redirect_from:
 ---
 
 ## Services & Memberships
+* 2023: Member of technical Program Committee at 5th International Conference on Blockchain Computing and Applications 2023 
+* 2023: Member of Technical Program Committee at [5th International Congress on Blockchain and Applications 2023](https://www.blockchain-congress.net/)
 * 2022: IEEE Honors Society Member, [IEEE-HKN (Eta Kappa Nu) Lambda Zeta](https://edu.ieee.org/us-unt/hkn/)
 * 2022: Reviewer, 3rd Workshop on Network Management For 6G Communication Systems (NETMAN6G), part of GLOBECOM conference, 2022
 *	2020-2022: Vice President, [Cybersecurity Club](https://untcsc.github.io/), University of North Texas
