@@ -13,6 +13,7 @@ redirect_from:
 .page__content {
 
 text-align: justify;
+
 Syed Badruddoja is a doctoral candidate in [Computer Science and Engineering](https://computerscience.engineering.unt.edu/) at the [University of North Texas](https://www.unt.edu/) (UNT). Syed studies blockchain security protocols to secure Artificial Intelligence (AI) algorithms. AI learning algorithms are threatened by poisoning attacks. The data, training algorithms and predictions are vulnerable to such manipulations. Blockchain protects the integrity and availability of data deterring poisoning attacks. Syed investigates the hardness of the blockchain frameworks to secure AI models. The programming inabilities, cost of transactions and latency of predictions are some of the areas he analyses in his research.
 
 
