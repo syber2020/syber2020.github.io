@@ -8,7 +8,7 @@ redirect_from:
 ---
 
 ## Services & Memberships
-* 2023: Reviewer for Journal in ClinicoEconomics and Outcomes Research by Dovepress
+* 2023: Reviewer for Journal in [ClinicoEconomics and Outcomes Research by Dovepress](https://www.dovepress.com/clinicoeconomics-and-outcomes-research-journal)
 * 2023: Member of Technical Program Committee at 5th IEEE International Conference on Blockchain Computing and Applications 2023 
 * 2023: Member of Technical Program Committee at [5th International Congress on Blockchain and Applications 2023](https://www.blockchain-congress.net/)
 * 2022: IEEE Honors Society Member, [IEEE-HKN (Eta Kappa Nu) Lambda Zeta](https://edu.ieee.org/us-unt/hkn/)
