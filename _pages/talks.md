@@ -6,7 +6,7 @@ author_profile: true
 ---
 
 * Poster Presentation on "Making Smart Contracts Predict and Scale" at Symposium on the Science of Security (HotSoS 2023), Virtual Hosted by National Security Agency (NSA)
-*
+
 * Conference proceeding presentation on Making Smart Contracts Predict and Scale, Proceeding: 4th International Conference on Blockchain Computing & Applications, Mode: Face-to-face,  Location: San Antonio, Texas, Year:  2022
 
 * Conference proceeding presentation on Smarter Contracts to Predict Using Deep-Learning Algorithms, Proceeding: 4th International Conference on Blockchain Computing & Applications, Mode: Face-to-face, Location: San Antonio, Texas, Year: 2022
