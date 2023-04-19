@@ -16,7 +16,9 @@ author_profile: true
 {% endfor %} -->
 
 ## 2023
+
 * S. Zaman, R. Dantu, S. Badruddoja, K. Upadhyay, S. Talapuru, "Layerwise Interopreability in Metaverse: Key to Next Generation E-Commerce", IEEE International Conference on Metaverse Computing, Networking and Applications 2023", Tokyo, Japan
+
 ## 2022
 
 *	S. Badruddoja, R. Dantu, Y. He, M. Thompson, A. Salau and K. Upadhyay, "Making Smart Contracts Predict and Scale," 2022 Fourth International Conference on Blockchain Computing and Applications (BCCA), 2022, pp. 127-134, doi: 10.1109/BCCA55292.2022.9922480.
