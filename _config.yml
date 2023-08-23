@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "Syed Badruddoja"
 title_separator          : "-"
 name                     : &name "Syed Badruddoja"
-description              : &description "Ph.D Candidate in Computer Science & Engineering"
+description              : &description "Ph.D in Computer Science & Engineering"
 url                      : https://syedbadruddoja.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "syedbadruddoja/syedbadruddoja.github.io"
@@ -193,9 +193,9 @@ collections:
   diversity:
     output: true
     permalink: /:collection/:path/
-  certifications:
-    output: true
-    permalink: /:collection/:path/
+  # certifications:
+  #   output: true
+  #   permalink: /:collection/:path/
 
 
 # Defaults
@@ -255,14 +255,14 @@ defaults:
       share: true
       comments: true
   # _certifications
-  - scope:
-      path: ""
-      type: certifications
-    values:
-      layout: single
-      author_profile: true
-      share: true
-      comments: true
+  # - scope:
+  #     path: ""
+  #     type: certifications
+  #   values:
+  #     layout: single
+  #     author_profile: true
+  #     share: true
+  #     comments: true
   # _portfolio
   - scope:
       path: ""
