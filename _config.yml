@@ -196,7 +196,9 @@ collections:
   certifications:
     output: true
     permalink: /:collection/:path/
-
+  awards:
+    output: true
+    permalink: /:collection/:path/
 
 # Defaults
 defaults:
